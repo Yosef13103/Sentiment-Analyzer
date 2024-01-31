@@ -56,7 +56,8 @@ This is just a showcase of the TextBlob library and its capabilities. The `senti
   - [GitHub](https://github.com/Ali-AlDhamen)
   - [Twitter](https://twitter.com/_AliDhamen)
 - Yosef Mohamed Ahmed
-  - [GitHub](https://github.com/Brentnutso)
+  - [GitHub](https://github.com/Yosef13103)
+  - [LinkedIn] (https://www.linkedin.com/in/yahmed131/)
 
 ## License 📄
 
